@@ -10,7 +10,7 @@ pygame.init()
 WIDTH, HEIGHT = 600, 600  # Set the window size to 600x600 pixels
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Autonomous Robot  Simulation")
-~
+
 # Set colors
 WHITE = (255, 255, 255)
 GRID_COLOR = (0, 255, 0)
